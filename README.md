@@ -1,5 +1,3 @@
-# goEuroKata
-
 Kata
 ===================
 NOTE: Not created by me !
